@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>InsertCoin ($COIN)</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🪙 InsertCoin ($COIN)</h1>
+    <p>🎮 Press Start to Meme</p>
+  </header>
+
+  <section class="links">
+    <h2>🚀 Official Links</h2>
+    <a href="https://pump.fun/DwVcc5TvSkC9vuavpw6uo8wa6JVXzj6mnVk5DwK6pump" target="_blank">Buy on Pump.fun</a>
+    <a href="https://x.com/InsertCointoken?s=09" target="_blank">Twitter/X</a>
+    <a href="https://t.me/insertcoinofficial" target="_blank">Telegram</a>
+  </section>
+
+  <section class="tokenomics">
+    <h2>📊 Tokenomics</h2>
+    <ul>
+      <li>60% Liquidity</li>
+      <li>20% Marketing & Memes</li>
+      <li>10% Community</li>
+      <li>10% Team (locked 6 months)</li>
+    </ul>
+  </section>
+
+  <section class="roadmap">
+    <h2>🕹️ Roadmap</h2>
+    <ol>
+      <li><b>Stage 1 – Insert Coin:</b> Launch on Pump.fun, first memes & branding</li>
+      <li><b>Stage 2 – Press Start:</b> Community growth, meme campaigns, airdrops</li>
+      <li><b>Stage 3 – Continue?:</b> Partnerships, retro NFTs</li>
+      <li><b>Stage 4 – 1UP Global:</b> CEX listings, merch, worldwide expansion</li>
+    </ol>
+  </section>
+
+  <footer>
+    <p>👾 InsertCoin – An Arcade Memecoin Experience | $COIN</p>
+    <p><small>Disclaimer: $COIN is a meme token. No financial guarantees.</small></p>
+  </footer>
+</body>
+</html>
+📄 style.css
+css
+Copiar
+Editar
+/* Arcade Retro Theme for InsertCoin */
+body {
+  margin: 0;
+  font-family: 'Press Start 2P', monospace, sans-serif;
+  background-color: #0d0d0d;
+  color: #f5f5f5;
+  text-align: center;
+}
+
+header {
+  padding: 40px 20px;
+  background: linear-gradient(90deg, #ff00cc, #3333ff);
+  color: white;
+  text-shadow: 2px 2px #000;
+}
+
+header h1 {
+  font-size: 2.5em;
+}
+
+header p {
+  margin-top: 10px;
+  font-size: 1.2em;
+}
+
+section {
+  padding: 40px 20px;
+  margin: 20px auto;
+  max-width: 800px;
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 15px;
+  box-shadow: 0 0 15px #ff00cc;
+}
+
+.links a {
+  display: inline-block;
+  margin: 10px;
+  padding: 12px 20px;
+  color: white;
+  text-decoration: none;
+  background: #ff0066;
+  border-radius: 8px;
+  box-shadow: 0 0 10px #ff0066;
+  transition: 0.3s;
+}
+
+.links a:hover {
+  background: #ff3399;
+  box-shadow: 0 0 20px #ff3399;
+}
+
+.tokenomics ul {
+  list-style: none;
+  padding: 0;
+}
+
+.tokenomics li {
+  margin: 10px 0;
+  font-size: 1.1em;
+}
+
+.roadmap ol {
+  text-align: left;
+  margin: auto;
+  max-width: 600px;
+  line-height: 1.8em;
+}
+
+footer {
+  padding: 20px;
+  background: #111;
+  margin-top: 40px;
+  font-size: 0.9em;
+}
